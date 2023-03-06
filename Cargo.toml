@@ -1,0 +1,6 @@
+# vim: ts=4:noet
+[workspace]
+
+members = [
+	"core",
+]
